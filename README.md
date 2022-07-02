@@ -1,5 +1,5 @@
 # Capstone-Project
-Understanding Customer Behavvior with Customer Segmentation Methods
+Understanding Customer Behavior with Customer Segmentation Methods
 
 “Customer Personality Analysis” 
 Helping businesses to better understand their customers and making it easier for them to modify offers according to the specific needs, behaviours and concerns of different types of customers by doing Customer Personality Analysis.
