@@ -1,5 +1,4 @@
-# Capstone-Project
-Understanding Customer Behavior with Customer Segmentation Methods
+# Understanding Customer Behavior with Customer Segmentation Methods
 
 “Customer Personality Analysis” 
 
